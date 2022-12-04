@@ -32,10 +32,9 @@ $ npm run db:migrate
 # iniciar database
 $ npm run dev
 
-# Acessar link gerado pelo servidor
+# Acessar link gerado pelo servidor local
 
 ```
-% # Funcionamento
 # Tecnologias
 
 Para construir o projeto foi utilizado as seguintes ferramentas
